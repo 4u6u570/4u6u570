@@ -1,5 +1,5 @@
 ### Hola! 👋
-- 🔭 I’m currently working on WordPress projects.
+- 🔭 I’m currently working on React & WordPress projects.
 - 🌱 I’m currently learning MERN & UX/UI.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 📫 How to reach me: augustosalazar@outlook.com
