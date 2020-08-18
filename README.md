@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning MERN & UX/UI.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about ...
-- 📫 How to reach me: augustosalazar@outlook.com
+- 📫 How to reach me: augustosalazar[at]outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Time is inexorable.
 -->
