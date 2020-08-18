@@ -1,5 +1,4 @@
 ### Hola! 👋
-- 🔭 I’m currently working on React & WordPress projects.
 - 🌱 I’m currently learning MERN & UX/UI.
 - 📫 How to reach me: augustosalazar@outlook.com
 - ⚡ Fun fact: Time is inexorable 🤔
