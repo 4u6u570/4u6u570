@@ -1,7 +1,7 @@
 ### Hola! 👋
 - 🌱 I’m currently learning MERN & UX/UI.
-- 📫 How to reach me: augustosalazar@outlook.com
-- ⚡ Fun fact: Time is inexorable 🤔
+- 📫 How to reach me: hello{at}augustosalazar.dev
+- ⚡ Fun fact: I make music too! Spotify: Falcon Series.
 <!--
 **4u6u570/4u6u570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
