@@ -15,6 +15,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/4u6u570/resume/6b8b68dd999f4b2015d77a90634f22e435e2fafa/assets/font-awesome/svgs/brands/react.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/4u6u570/resume/6b8b68dd999f4b2015d77a90634f22e435e2fafa/assets/font-awesome/svgs/brands/adobe.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/4u6u570/resume/6b8b68dd999f4b2015d77a90634f22e435e2fafa/assets/font-awesome/svgs/brands/figma.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/4u6u570/resume/6b8b68dd999f4b2015d77a90634f22e435e2fafa/assets/font-awesome/svgs/brands/python.svg"></code>
 
     
 
