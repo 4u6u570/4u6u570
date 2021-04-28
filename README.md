@@ -3,6 +3,8 @@
 - 📫 How to reach me: hello{at}augustosalazar.dev
 - ⚡ Fun fact: I love chess & painting.
 
+
+
 **Development & Design stack:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/4u6u570/resume/6b8b68dd999f4b2015d77a90634f22e435e2fafa/assets/font-awesome/svgs/brands/js.svg"></code>
