@@ -1,7 +1,7 @@
 ### Hola! 👋
 - 🌱 I’m currently learning MERN & Python.
 - 📫 How to reach me: hello{at}augustosalazar.dev
-- ⚡ Fun fact: I love chess -a LOT-
+- ⚡ Fun fact: I love chess & painting.
 
 **Development & Design stack:**  
 
